@@ -10,7 +10,7 @@ The goal of this project is to reproduce and analyze the main experimental ideas
 
 The repository is organized as follows:
 
-- `data.xlsx`: csv file with SP500 data.
+- `data.csv`: csv file with SP500 data.
 - `main.ipynb`: notebook with the Quantum Reservoir implementation.
 
 ## Data
