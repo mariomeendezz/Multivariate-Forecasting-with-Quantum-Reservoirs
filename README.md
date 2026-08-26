@@ -10,8 +10,10 @@ The goal of this project is to reproduce and analyze the main experimental ideas
 
 The repository is organized as follows:
 
-- `data.csv`: csv file with SP500 data.
-- `main.ipynb`: notebook with the Quantum Reservoir implementation.
+- `data/aggregated_data.csv`: csv file with aggregated SP500 data.
+- `src/quantum_reservoir.py`: pyhton file with the Quantum Reservoir class.
+- `src/main.ipynb`: notebook with the experiment implementation.
+
 
 ## Data
 
